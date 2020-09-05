@@ -3,4 +3,4 @@ I am currently using Blender and Unity3d to develop interactive VR content. This
 
 Example work includes (work in progress):  
 
-![Alt Text](img/dukgoo_final.gif)
+![Alt Text](dukgoo_final.gif)
