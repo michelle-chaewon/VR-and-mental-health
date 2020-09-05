@@ -3,4 +3,4 @@ I am currently using Blender and Unity3d to develop interactive VR content. This
 
 Example work includes (work in progress):  
 
-![alt text](https://github.com/michelle-chaewon/VR-and-mental-health/blob/master/puppy_created_by_Blender.png)
+![Alt Text](img/dukgoo_final.gif)
